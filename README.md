@@ -1,0 +1,2 @@
+# Usdt
+Usdt mining generator
